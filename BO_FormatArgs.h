@@ -54,6 +54,6 @@ public:
 };
 class BO_FormatArgs;
 
-#include <BO_FormatArgs.prv>
+#include <BO_FormatArgs.hpp>
 
 ---------------------------------------------------------------------------------------------------

@@ -1,4 +1,3 @@
-/* vim: syntax=C++ */
 // BO_FormatArgs.prv
 
 // BO_FormatArgs_t implementation. 
